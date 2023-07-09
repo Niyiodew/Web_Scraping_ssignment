@@ -1,2 +1,2 @@
-# Web_Scraping_ssignment
+# Web_Scraping_assignment
 BeautifulSoup
